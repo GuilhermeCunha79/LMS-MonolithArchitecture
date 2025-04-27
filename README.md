@@ -169,3 +169,6 @@ GOOGLE_CLIENT_SECRET=your-google-client-secret
 ### 👥 Authors
 
 - Guilherme Cunha - [@GuilhermeCunha79](https://github.com/GuilhermeCunha79)
+
+---
+This project is part of the Master in Software Engineering curriculum at ISEP, developed for ARQSOFT/ODSOFT.
